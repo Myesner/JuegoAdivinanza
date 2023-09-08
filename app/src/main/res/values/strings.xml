@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JuegoAdivinanza</string>
+    <string name="adivinar">Adivinar</string>
+    <string name="introduce_tu_numero">Introduce tu Numero</string>
+</resources>
